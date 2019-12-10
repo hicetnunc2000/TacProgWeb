@@ -11,7 +11,7 @@ onto_model_source.py
 Os outros programas escritos em python buscam minerar RSS Feeds, potencialmente realizar interacoes junto a ontologia, em casos de ocorrencias de termos comuns, assim como potencialmente realizar buscas. A aplicacao Docker-Flask pretenderia publicar on-line tal ontologia.
 
 A integracao final e realizada atraves da aplicacao Protege.
-A ontologia final se encontra em onto_mental_health.py.
+A ontologia final se encontra em onto_mental_health.owl
 
 Mais referencias:
 https://docs.google.com/document/d/e/2PACX-1vTRLowy2OWc1dB-XGeGkVPqkgALaTRWBTdRvGOs3qUgV5_xACa0EbNn3huPMPtz_fV3N3iHY3MsaW44/pub
